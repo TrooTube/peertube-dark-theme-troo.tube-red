@@ -13,7 +13,7 @@ body {
 .card {
   color: #111111;
 }
-.card-body {
+.plugin .card-body {
   background: #ccc;
 }
 
