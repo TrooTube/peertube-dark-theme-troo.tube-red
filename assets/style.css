@@ -13,6 +13,9 @@ body {
 .card {
   color: #111111;
 }
+.card-body {
+  background: #333;
+}
 
 // hide footer
 .footer.d-flex.justify-content-between .language{
