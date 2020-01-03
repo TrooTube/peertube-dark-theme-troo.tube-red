@@ -1,0 +1,26 @@
+body {
+  --mainBackgroundColor: #111111;
+  --mainForegroundColor: #fff;
+  --submenuColor: rgb(32, 32, 32);
+  --inputColor: gray;
+  --inputPlaceholderColor: #fff;
+
+  --mainColor: #EB2E37;
+  --mainHoverColor: #B52325;
+
+}
+
+.card {
+  color: #111111;
+}
+
+// hide footer
+.footer.d-flex.justify-content-between .language{
+  visibility: hidden;
+}
+footer.row a{
+  display: none;
+}
+footer.row {
+  visibility: hidden;
+}
